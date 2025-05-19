@@ -5,7 +5,7 @@
   <h3 align="center">TSLA Price Prediction Model</h3>
 
   <p align="center">
-    A machine learning model to predict Tesla (TSLA) stock price direction using historical technical indicators
+    A simple deep learning model to predict Tesla (TSLA) stock price direction using historical technical indicators
     <br />
     <a href="https://github.com/chanz6"><strong>More Personal Projects »</strong></a>
     <br />
