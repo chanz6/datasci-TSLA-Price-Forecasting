@@ -120,4 +120,4 @@ Loss Curve, Training vs Validation
 [Sklearn]: https://img.shields.io/badge/scikit--learn-FFC0CB?style=for-the-badge&logo=scikitlearn&logoColor=black
 [TensorFlow]: https://img.shields.io/badge/tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=gold
 [Keras]: https://img.shields.io/badge/Keras-yellow?style=for-the-badge&logo=keras&logoColor=gold
-[TA]: https://img.shields.io/badge/TA-white?style=for-the-badge&logo=&logoColor=
+[TA]: https://img.shields.io/badge/TA-lightgrey?style=for-the-badge&logo=logoColor=
