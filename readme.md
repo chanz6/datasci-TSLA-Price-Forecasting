@@ -93,19 +93,19 @@ The model excels at predicting broad trends but occasionally underperforms on sh
 
 Model Predictions vs Actual Price (Full Timeline):
 
-![](/images/1.PNG)
+![Pred vs Actual (Full Timeline)](/images/1.PNG)
 
 TSLA Close Price, Predicted vs Actual (Test Set):
 
-![](/images/2.PNG)
+![Pred vs Actual (Test Set)](/images/2.PNG)
 
 Prediction Accuracy, Scatter Plot of Actual vs Predicted:
 
-![](/images/3.PNG)
+![Pred Accuracy](/images/3.PNG)
 
 Loss Curve, Training vs Validation
 
-![](/images/4.PNG)
+![Loss Curve](/images/4.PNG)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
